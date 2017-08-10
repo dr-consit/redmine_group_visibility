@@ -1,7 +1,5 @@
-redmine_author_group_filter
-==============================
+# redmine_group_visibility
+Add issue group visibility option to Redmine
 
-###License
-
-GNU General Public License Version 2
-
+This allows you to set a roles issue visibility to:
+	Issues created by or assigned to the user's group(s)
